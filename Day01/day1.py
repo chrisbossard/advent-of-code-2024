@@ -32,7 +32,7 @@ def read_file_into_lists(file_name):
         print(f"Error: The file '{file_name}' was not found.")
         return None, None
 
-list_a, list_b = read_file_into_lists("data.txt")
+list_a, list_b = read_file_into_lists("Day01/data.txt")
 
 
 list_a.sort()
