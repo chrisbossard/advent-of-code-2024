@@ -26,7 +26,7 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | 1   | ✅     | ✅     |
-| 2   | ❌     | ❌     |
+| 2   | ✅     | ✅     |
 | 3   | ❌     | ❌     |
 | 4   | ❌     | ❌     |
 | 5   | ❌     | ❌     |
